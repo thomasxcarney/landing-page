@@ -56,7 +56,6 @@ img {
 }
 
 .title-section {
-    justify-content: space-around;
     align-items: flex-start;
 }
 
@@ -67,4 +66,17 @@ button {
     text-decoration: none;
     border-radius: 6px;
     padding: 8px 20px;
+}
+
+h3 {
+    font-size: 36px;
+    font-weight: 800;
+    color: #1F2937;
+}
+
+.info-section{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
