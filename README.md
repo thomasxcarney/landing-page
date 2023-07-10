@@ -1,1 +1,1 @@
-This is a landing page for a fictional business' website. I will be attempting to copy an image of how the site should look.
+This is a practice landing page for a website for my audio engineering business. I will be attempting to copy an image of how the site should look while substituting placeholder texts and images for relevant alternatives.
