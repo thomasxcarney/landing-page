@@ -1,1 +1,1 @@
-# landing-page
+This is a landing page for a fictional business' website. I will be attempting to copy an image of how the site should look.
