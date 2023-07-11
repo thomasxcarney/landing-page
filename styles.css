@@ -84,14 +84,16 @@ h3 {
 .info-squares {
     display: flex;
     justify-content: space-between;
-    align-items: center;
+    align-items: flex-start;
     flex-wrap: wrap;
 }
 
 .squares {
     width: 200px;
+    margin: 24px;
 }
 
 .squares img {
     width: 100%;
+    border: 1px solid black;
 }
