@@ -60,7 +60,7 @@ a {
     align-items: flex-start;
 }
 
-button {
+.title-section button {
     background-color: #3882F6;
     color: #F9FAF8;
     border: none;
@@ -89,6 +89,7 @@ h3 {
     justify-content: space-between;
     align-items: flex-start;
     flex-wrap: wrap;
+    font-size: 18px;
 }
 
 .squares {
@@ -107,17 +108,64 @@ h3 {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    padding: 0 200px;
-    padding-bottom: 80px;
+    padding: 80px 200px;
 }
 
 .quote {
     font-size: 36px;
     font-weight: lighter;
     color:#1F2937;
+    padding-bottom: 0;
+    margin-bottom: 0;
 }
 
 .attribution {
     align-self: flex-end;
     padding-left: 50px;
+    padding-top: 0;
+    margin-top: 0;
+}
+
+.call-to-action-section {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 80px 200px;
+}
+
+.call-to-action {
+    background-color: #3882F6;
+    color: #F9FAF8;
+    border: none;
+    text-decoration: none;
+    border-radius: 6px;
+    padding: 40px 100px;
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.call-to-action button {
+    background-color: #3882F6;
+    color: #F9FAF8;
+    border: 1px solid #F9FAF8;
+    text-decoration: none;
+    border-radius: 6px;
+    padding: 8px 20px;
+}
+
+.action-text p,h4 {
+    margin:0;
+    padding: 0;
+}
+
+.action-text p {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+h4 {
+    font-size: 24px;
+    color: #F9FAF8;
 }
