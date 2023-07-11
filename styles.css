@@ -169,3 +169,11 @@ h4 {
     font-size: 24px;
     color: #F9FAF8;
 }
+
+.footer {
+    background-color: #1F2937;
+    font-size: 18px;
+    color: #E5E7EB;
+    text-align: center;
+    padding: 10px;
+}
